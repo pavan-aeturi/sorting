@@ -1,2 +1,2 @@
 # sorting
-implementing various sorting algorithms online
+implementing various sorting algorithms using pygame
